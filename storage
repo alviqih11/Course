@@ -1,0 +1,27 @@
+ <!-- <h2 class="my-4 text-center">@yield('title')</h2>
+
+    <div class="d-flex justify-content-center">
+        <form class="form-inline my-2 my-lg-0" method="GET" action="{{url()->full()}}">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search For ..." aria-label="Search" name="search" value="{{$search}}">
+            <button class="btn btn-primary my-2 my-sm-0 mx-auto" type="submit">Search</button>
+        </form>
+    </div>
+
+    @if (session('search'))
+        <div class="row mt-4 justify-content-center text-center">
+            <div class="col-md-6">
+                <div class="alert alert-info" role="alert">
+                {{session('search')}}
+                </div>
+            </div>
+        </div> -->
+    <!-- @else -->
+
+       <!-- @endif -->
+
+
+
+
+
+//tempat paginate
+        <!-- <div class="d-flex justify-content-center mt-4">{{$artikel->links()}}</div> -->
